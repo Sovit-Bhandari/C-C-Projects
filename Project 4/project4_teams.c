@@ -1,7 +1,7 @@
 /*
 Name = Sovit Bhandari
 Discription = This C code takes input for the number of students and their respective points. Based on these points, it assigns each student to one of three teams: 
-Beginner, Honor, or Excellence. The code demonstrates the use of arrays, pointer arithmetic, and conditional statements for team assignment based on point values.
+Beginner, Honor, or Excellence. The code demonstrates use of arrays, pointer arithmetic, and conditional statements for team assignment based on point values.
 */
 
 #include <stdio.h>

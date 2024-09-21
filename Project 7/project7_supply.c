@@ -1,6 +1,5 @@
 /*
 Name = Sovit Bhandari
-U-Id= U83561265
 Discription = The C program reads supply data from a CSV file, prompts the user to search for a supply by name, and then writes matching 
 supply information to another CSV file. It employs file handling, string manipulation, and structure usage to achieve this. Upon completion,
  it notifies the user of the successful writing of search results to the output file.

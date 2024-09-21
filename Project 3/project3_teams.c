@@ -1,6 +1,5 @@
 /*
 Name = Sovit Bhandari
-U-Id= U83561265
 Discription = This code assigns students to different teams according to their performance points. First, the program inputs the number of
 students along with their performance points. Then, it uses the function assign to assign each student to a different team based on how close 
 they are to predefined thresholds.

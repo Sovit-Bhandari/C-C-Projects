@@ -1,6 +1,5 @@
 /*
 Name = Sovit Bhandari
-U-Id= U83561265
 Discription = This C program reads supply information from a CSV file, sorts the supplies alphabetically by name and then by color, and writes the 
 sorted data to another CSV file. It defines a structure to hold supply details, including name, color, and quantity. The program uses a comparison function 
 and the 'qsort' function to sort the supplies. File handling functions are used to read from and write to files. Finally, it prints a message indicating 

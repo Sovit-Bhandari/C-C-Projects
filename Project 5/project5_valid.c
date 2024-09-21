@@ -1,7 +1,5 @@
 /*
-    Name: Ayush Poudel
-    UID: U43442445
-    Program: Command Line Argument Validator
+    Name: Sovit Bhandari
     Description: This program checks if the command-line arguments contain only allowed characters. It verifies if the number of arguments is greater than 2 (including the program name). Allowed characters include lowercase alphabets, digits, spaces, exclamation marks, question marks, and periods.
 */
 

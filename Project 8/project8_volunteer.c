@@ -1,6 +1,5 @@
 /*
 Name = Sovit Bhandari
-U-Id= U83561265
 Discription =This C program manages a volunteer list, allowing users to add, search, and print volunteer information. It utilizes a linked list data 
 structure to store volunteer details such as name, email, and grade level. The code employs functions for memory management and user input validation,
 facilitating efficient volunteer management operations.

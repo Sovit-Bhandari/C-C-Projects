@@ -1,6 +1,5 @@
 /*
 Name = Sovit Bhandari
-U-Id = U83561265
 Discription = The following code prompts the user to input a message, then employs a decoding algorithm to reveal the hidden text. It consists of functions to take user input, decode the message, and display the revealed content.
 */
 

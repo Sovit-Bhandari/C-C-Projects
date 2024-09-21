@@ -1,6 +1,5 @@
 /*
 Name = Sovit Bhandari
-U-Id= U83561265
 Discription = Following C program reads the text from the specified file, and checks whether any of the text is square. The first part of the text must match the second part of the text (for example, “noon” or “deed”). If any word is square, it will be written to the output file “output.txt”.
 
 */

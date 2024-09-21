@@ -1,6 +1,5 @@
 /*
 Name = Sovit Bhandari
-U-Id= U83561265
 Discription = Following program manages a volunteer database through console input. It defines a struct for volunteer information and implements functions 
 for adding, searching, printing, and deleting volunteers. Each volunteer has a last name, first name, email, and grade level. The main function offers 
 options to add, search, print, delete, or quit. Volunteers are stored in a linked list. Input validation and memory management are incorporated. The program

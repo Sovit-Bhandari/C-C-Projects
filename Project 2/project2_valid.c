@@ -1,6 +1,5 @@
 /*
 Name = Sovit Bhandari
-U-Id = U83561265
 Description = This program analyzes the user’s input by looking at each character. It checks whether each character matches the 
 lowercase letters, digits, spaces, exclamation marks, question marks, or periods. If a character does not match, it is considered 
 invalid. Otherwise, it is considered valid.

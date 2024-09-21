@@ -1,6 +1,5 @@
 /*
 Name = Sovit Bhandari
-U-Id= U83561265
 Discription = This C program is used to find the missing episode number from a series of episodes. It will ask you to enter your total 
 number of episodes. After that, it will ask you for the episodes you have already watched. Based on the answers given, it will locate 
 the missing episode of the series.

@@ -1,6 +1,5 @@
 /*
 Name = Sovit Bhandari
-U-Id= U83561265
 Discription = This C program determines whether a sequence of integers entered by the user forms an arithmetic sequence. it checks if the sequence is arithmetic by
 comparing the differences between consecutive elements. If the differences are consistent throughout the sequence, it prints yes. otherwise it prints no.
 

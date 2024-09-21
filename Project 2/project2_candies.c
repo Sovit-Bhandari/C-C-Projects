@@ -1,6 +1,5 @@
 /*
 Name = Sovit Bhandari
-U-ID= U83561265
 Description = This is a C program that mimics a vending machine. It will ask you to put in coins until you enter 0
 (meaning until you stop putting money).Then, it will show you the total amount of coins and give you a candy menu to choose from.
 The program will calculate change based on your candy selection and tell you if the amount you have put in is not enough or if 

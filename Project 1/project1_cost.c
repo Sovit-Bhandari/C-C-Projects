@@ -1,6 +1,5 @@
 /*
 Name = Sovit Bhandari
-U-ID= U83561265
 Description = The following code is a simple c program code that calculates charges for different 
 packages based on user input for hours and the number of guests. 
 */
